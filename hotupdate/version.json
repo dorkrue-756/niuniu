@@ -1,10 +1,14 @@
 {
-  "version": "20260321-224917",
-  "timestamp": 1774104557.6666765,
+  "version": "20260321-230013",
+  "timestamp": 1774105213.621028,
   "files": {
     "hotupdate/files/respic\\caas.txt": {
       "size": 1,
       "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "hotupdate/files/respic\\caasbmn1.txt": {
+      "size": 0,
+      "md5": "d41d8cd98f00b204e9800998ecf8427e"
     },
     "hotupdate/files/respic\\jingganglang.txt": {
       "size": 7,
