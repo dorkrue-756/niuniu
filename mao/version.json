@@ -1,10 +1,14 @@
 {
-  "version": "20260322-055430",
-  "timestamp": 1774130070.29151,
+  "version": "20260322-060427",
+  "timestamp": 1774130667.7731738,
   "files": {
-    "files/.hotupdate_version": {
-      "size": 1364,
-      "md5": "44dc066434cb108d10b593574393e3e3"
+    "files/respic/122 - 副本 (2).txt": {
+      "size": 0,
+      "md5": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "files/respic/122 - 副本.txt": {
+      "size": 0,
+      "md5": "d41d8cd98f00b204e9800998ecf8427e"
     },
     "files/respic/122.txt": {
       "size": 0,
