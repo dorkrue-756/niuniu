@@ -1,0 +1,50 @@
+{
+  "version": "20260321-190030",
+  "timestamp": 1774090830.522592,
+  "files": {
+    "hotupdate/config/1识别.bmp": {
+      "size": 2462,
+      "md5": "893a1fba697229b471b1030b8f5dee65"
+    },
+    "hotupdate/config/3b1fe.dll": {
+      "size": 10742997,
+      "md5": "6221e8e4f7f892b5ee8c63f3d776a08d"
+    },
+    "hotupdate/config/dm.dll": {
+      "size": 4111660,
+      "md5": "da3f2de01bcf2c2686f2c0ca16acb138"
+    },
+    "hotupdate/config/DmReg.dll": {
+      "size": 53248,
+      "md5": "fdc8b75a37017141831e3421479307be"
+    },
+    "hotupdate/config/g5f5c.dll": {
+      "size": 10745412,
+      "md5": "4110f03a1d81a951e0f31812848df246"
+    },
+    "hotupdate/config/NetworkRequest.dll": {
+      "size": 26372608,
+      "md5": "8c3bba8f92dfe950a21c6230603e078c"
+    },
+    "hotupdate/config/rar.exe": {
+      "size": 420864,
+      "md5": "a88fa89a5d81958246c52245fa00d654"
+    },
+    "hotupdate/config/ts.txt": {
+      "size": 262,
+      "md5": "276b6f73fdaaa375d787a7bad69af402"
+    },
+    "hotupdate/config/zhu.ini": {
+      "size": 27,
+      "md5": "c95036ef5fe638c2adb39bebc51b9c29"
+    },
+    "hotupdate/config/新建文本文档.txt": {
+      "size": 108,
+      "md5": "fa8206b386ea4203ea1724e34a584216"
+    },
+    "hotupdate/files/caas.txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    }
+  }
+}
