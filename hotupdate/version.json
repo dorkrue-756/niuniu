@@ -1,32 +1,32 @@
 {
-  "version": "20260321-233111",
-  "timestamp": 1774107071.100213,
+  "version": "20260321-233753",
+  "timestamp": 1774107473.5045695,
   "files": {
-    "hotupdate/files/respic\\caas.txt": {
+    "hotupdate/files/respic/caas.txt": {
       "size": 1,
       "md5": "c4ca4238a0b923820dcc509a6f75849b"
     },
-    "hotupdate/files/respic\\caasbmn1.txt": {
+    "hotupdate/files/respic/caasbmn1.txt": {
       "size": 0,
       "md5": "d41d8cd98f00b204e9800998ecf8427e"
     },
-    "hotupdate/files/respic\\jingganglang - 副本 (2).txt": {
+    "hotupdate/files/respic/jingganglang - 副本 (2).txt": {
       "size": 7,
       "md5": "bea43f5f7ad39e2d184cb16885043d42"
     },
-    "hotupdate/files/respic\\jingganglang - 副本 (3).txt": {
+    "hotupdate/files/respic/jingganglang - 副本 (3).txt": {
       "size": 7,
       "md5": "bea43f5f7ad39e2d184cb16885043d42"
     },
-    "hotupdate/files/respic\\jingganglang - 副本 (4).txt": {
+    "hotupdate/files/respic/jingganglang - 副本 (4).txt": {
       "size": 7,
       "md5": "bea43f5f7ad39e2d184cb16885043d42"
     },
-    "hotupdate/files/respic\\jingganglang - 副本.txt": {
+    "hotupdate/files/respic/jingganglang - 副本.txt": {
       "size": 7,
       "md5": "bea43f5f7ad39e2d184cb16885043d42"
     },
-    "hotupdate/files/respic\\jingganglang.txt": {
+    "hotupdate/files/respic/jingganglang.txt": {
       "size": 7,
       "md5": "bea43f5f7ad39e2d184cb16885043d42"
     }
