@@ -1,118 +1,18 @@
 {
-  "version": "20260322-030307",
-  "timestamp": 1774119787.0938442,
+  "version": "20260323-025627",
+  "timestamp": 1774205787.909472,
   "files": {
-    "hotupdate/files/respic/caas - 副本.txt": {
+    "files/a.txt": {
       "size": 1,
       "md5": "c4ca4238a0b923820dcc509a6f75849b"
     },
-    "hotupdate/files/respic/caas.txt": {
+    "files/respic/.hotupdate_version": {
+      "size": 188,
+      "md5": "9203383fb5d2b9653c1fb5ba5d7039d4"
+    },
+    "files/respic/a.txt": {
       "size": 1,
       "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "hotupdate/files/respic/caasbmn1 - 副本 (2).txt": {
-      "size": 0,
-      "md5": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    "hotupdate/files/respic/caasbmn1 - 副本.txt": {
-      "size": 0,
-      "md5": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    "hotupdate/files/respic/caasbmn1.txt": {
-      "size": 0,
-      "md5": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (2) - 副本 - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (2) - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (2).txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (3) - 副本 - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (3) - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (3).txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (4) - 副本 - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (4) - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (4).txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (5) - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (5).txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (6) - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (6).txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (7) - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (7).txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (8) - 副本 - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 (8) - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 - 副本 (2).txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 - 副本 (3).txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 - 副本 - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本 - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang - 副本.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
-    },
-    "hotupdate/files/respic/jingganglang.txt": {
-      "size": 7,
-      "md5": "bea43f5f7ad39e2d184cb16885043d42"
     }
   }
 }
