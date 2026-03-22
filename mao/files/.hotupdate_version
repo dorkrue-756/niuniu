@@ -1,7 +1,47 @@
 {
-  "version": "20260322-145217",
-  "timestamp": 1774162337.6649008,
+  "version": "20260322-210601",
+  "timestamp": 1774184761.2561233,
   "files": {
+    "files/.hotupdate_version": {
+      "size": 1225,
+      "md5": "ad1cb1331aa28bf017172bda46121698"
+    },
+    "files/122 - 副本 (2) - 副本.txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/122 - 副本 (2).txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/122 - 副本 (3).txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/122 - 副本 (4).txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/122 - 副本 (5) - 副本.txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/122 - 副本 (5).txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/122 - 副本 (6) - 副本 - 副本.txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/122 - 副本 (6) - 副本.txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/122 - 副本 (7) - 副本 - 副本.txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
     "files/respic/122 - 副本 (2) - 副本.txt": {
       "size": 1,
       "md5": "c4ca4238a0b923820dcc509a6f75849b"
@@ -10,33 +50,10 @@
       "size": 1,
       "md5": "c4ca4238a0b923820dcc509a6f75849b"
     },
-    "files/respic/122 - 副本 (3).txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/respic/122 - 副本 (4).txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/respic/122 - 副本 (5) - 副本.txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/respic/122 - 副本 (5).txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/respic/122 - 副本 (6) - 副本 - 副本.txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/respic/122 - 副本 (6) - 副本.txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/respic/122 - 副本 (7) - 副本 - 副本.txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    "caas.exe": {
+      "size": 152,
+      "md5": "82d230b12aaeca8b1f6c57c2a38366e8",
+      "version": "1.0.0"
     }
   }
 }
