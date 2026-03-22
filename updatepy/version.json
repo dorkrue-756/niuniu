@@ -1,36 +1,20 @@
 {
-  "version": "20260323-054415",
-  "timestamp": 1774215867.693787,
+  "version": "20260323-054814",
+  "timestamp": 1774216098.5488868,
   "files": {
     "files/a.txt": {
       "size": 2,
       "md5": "b6d767d2f8ed5d21a44b0e5886680cb9"
     },
     "files/a1.txt": {
-      "size": 4,
-      "md5": "05a70454516ecd9194c293b0e415777f"
+      "size": 3,
+      "md5": "060ad92489947d410d897474079c1477"
     },
     "files/a2.txt": {
       "size": 3,
       "md5": "bcbe3365e6ac95ea2c0343a2395834dd"
     },
     "files/a3.txt": {
-      "size": 3,
-      "md5": "115f89503138416a242f40fb7d7f338e"
-    },
-    "files/files/a.txt": {
-      "size": 2,
-      "md5": "b6d767d2f8ed5d21a44b0e5886680cb9"
-    },
-    "files/files/a1.txt": {
-      "size": 3,
-      "md5": "060ad92489947d410d897474079c1477"
-    },
-    "files/files/a2.txt": {
-      "size": 3,
-      "md5": "bcbe3365e6ac95ea2c0343a2395834dd"
-    },
-    "files/files/a3.txt": {
       "size": 3,
       "md5": "115f89503138416a242f40fb7d7f338e"
     }
