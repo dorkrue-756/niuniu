@@ -1,10 +1,10 @@
 {
-  "version": "20260322-215517",
-  "timestamp": 1774187717.0425308,
+  "version": "20260322-221834",
+  "timestamp": 1774189114.691737,
   "files": {
     "files/.hotupdate_version": {
-      "size": 1633,
-      "md5": "b69d1fa8665ee97be836b70ca159063c"
+      "size": 1740,
+      "md5": "0651a00f048bf6f95b25ad7ec8ec47bf"
     },
     "files/122 - 副本 (2) - 副本.txt": {
       "size": 1,
@@ -57,6 +57,11 @@
     "files/respic/122 - 副本 (2).txt": {
       "size": 1,
       "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "驱动精灵_v9.61（绿色免安装版）.bin": {
+      "size": 11523446,
+      "md5": "31b423c1071d4abe452854d08bc1e650",
+      "original_name": "驱动精灵_v9.61（绿色免安装版）.exe"
     }
   }
 }
