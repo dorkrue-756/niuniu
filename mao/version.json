@@ -1,10 +1,10 @@
 {
-  "version": "20260322-214218",
-  "timestamp": 1774186938.2927048,
+  "version": "20260322-214725",
+  "timestamp": 1774187245.265871,
   "files": {
     "files/.hotupdate_version": {
-      "size": 1645,
-      "md5": "7a5a5ee074d49a5b541bfc438429f6dc"
+      "size": 1646,
+      "md5": "68e4d2ce7e887340c1e6a792adf8b3da"
     },
     "files/122 - 副本 (2) - 副本.txt": {
       "size": 1,
@@ -50,9 +50,9 @@
       "size": 1,
       "md5": "c4ca4238a0b923820dcc509a6f75849b"
     },
-    "caas2.exe": {
-      "size": 152,
-      "md5": "82d230b12aaeca8b1f6c57c2a38366e8",
+    "GameCenter.exe": {
+      "size": 459264,
+      "md5": "d7c1f2245c04f1bc95866277a85e1b6f",
       "version": "1.0.0"
     }
   }
