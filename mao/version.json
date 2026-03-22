@@ -1,55 +1,7 @@
 {
-  "version": "20260322-221834",
-  "timestamp": 1774189114.691737,
+  "version": "20260322-233153",
+  "timestamp": 1774193513.2662606,
   "files": {
-    "files/.hotupdate_version": {
-      "size": 1740,
-      "md5": "0651a00f048bf6f95b25ad7ec8ec47bf"
-    },
-    "files/122 - 副本 (2) - 副本.txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/122 - 副本 (2).txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/122 - 副本 (3).txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/122 - 副本 (4).txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/122 - 副本 (5) - 副本.txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/122 - 副本 (5).txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/122 - 副本 (6) - 副本 - 副本.txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/122 - 副本 (6) - 副本.txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/122 - 副本 (7) - 副本 - 副本.txt": {
-      "size": 1,
-      "md5": "c4ca4238a0b923820dcc509a6f75849b"
-    },
-    "files/GameCenter.rar": {
-      "size": 444594,
-      "md5": "bfca903fdf2ca8d3823386741f64873e"
-    },
-    "files/OPPO.rar": {
-      "size": 11591639,
-      "md5": "52be173b98cc74fbf97ae722f56e33d3"
-    },
     "files/respic/122 - 副本 (2) - 副本.txt": {
       "size": 1,
       "md5": "c4ca4238a0b923820dcc509a6f75849b"
@@ -58,10 +10,9 @@
       "size": 1,
       "md5": "c4ca4238a0b923820dcc509a6f75849b"
     },
-    "驱动精灵_v9.61（绿色免安装版）.bin": {
-      "size": 11523446,
-      "md5": "31b423c1071d4abe452854d08bc1e650",
-      "original_name": "驱动精灵_v9.61（绿色免安装版）.exe"
+    "files/respic/122 - 副本 (3) - 副本.txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
     }
   }
 }
