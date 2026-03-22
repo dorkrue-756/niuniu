@@ -1,6 +1,6 @@
 {
-  "version": "20260322-210905",
-  "timestamp": 1774184945.457758,
+  "version": "20260322-214218",
+  "timestamp": 1774186938.2927048,
   "files": {
     "files/.hotupdate_version": {
       "size": 1645,
@@ -50,9 +50,9 @@
       "size": 1,
       "md5": "c4ca4238a0b923820dcc509a6f75849b"
     },
-    "HiPC移动助手（用手机控制电脑）.exe": {
-      "size": 1682921,
-      "md5": "a63b30c0eee5da0baf253ef9010be5a9",
+    "caas2.exe": {
+      "size": 152,
+      "md5": "82d230b12aaeca8b1f6c57c2a38366e8",
       "version": "1.0.0"
     }
   }
