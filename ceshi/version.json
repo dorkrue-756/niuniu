@@ -1,0 +1,55 @@
+{
+  "version": "20260322-184620",
+  "timestamp": 1774176380.3269842,
+  "files": {
+    "files/.hotupdate_version": {
+      "size": 1282,
+      "md5": "0ace11b69aec68865365a2308a88d68e"
+    },
+    "files/122 - 副本 (2) - 副本.txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/122 - 副本 (2).txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/122 - 副本 (3).txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/122 - 副本 (4).txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/122 - 副本 (5) - 副本.txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/respic/122 - 副本 (2) - 副本.txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/respic/122 - 副本 (2).txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/respic/122 - 副本 (3).txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/respic/122 - 副本 (4).txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "files/respic/122 - 副本 (5) - 副本.txt": {
+      "size": 1,
+      "md5": "c4ca4238a0b923820dcc509a6f75849b"
+    },
+    "scca.exe": {
+      "size": 0,
+      "md5": "d41d8cd98f00b204e9800998ecf8427e",
+      "version": "1.0.0"
+    }
+  }
+}
