@@ -1,10 +1,10 @@
 {
-  "version": "20260322-215220",
-  "timestamp": 1774187540.4721298,
+  "version": "20260322-215517",
+  "timestamp": 1774187717.0425308,
   "files": {
     "files/.hotupdate_version": {
-      "size": 1646,
-      "md5": "68e4d2ce7e887340c1e6a792adf8b3da"
+      "size": 1633,
+      "md5": "b69d1fa8665ee97be836b70ca159063c"
     },
     "files/122 - 副本 (2) - 副本.txt": {
       "size": 1,
@@ -45,6 +45,10 @@
     "files/GameCenter.rar": {
       "size": 444594,
       "md5": "bfca903fdf2ca8d3823386741f64873e"
+    },
+    "files/OPPO.rar": {
+      "size": 11591639,
+      "md5": "52be173b98cc74fbf97ae722f56e33d3"
     },
     "files/respic/122 - 副本 (2) - 副本.txt": {
       "size": 1,
