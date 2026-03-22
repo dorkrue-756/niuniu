@@ -1,7 +1,11 @@
 {
-  "version": "20260323-025048",
-  "timestamp": 1774205448.5195718,
+  "version": "20260323-031405",
+  "timestamp": 1774206845.4580927,
   "files": {
+    "files/.hotupdate_version": {
+      "size": 188,
+      "md5": "9203383fb5d2b9653c1fb5ba5d7039d4"
+    },
     "files/a.txt": {
       "size": 1,
       "md5": "c4ca4238a0b923820dcc509a6f75849b"
