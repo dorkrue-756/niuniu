@@ -5,3 +5,6 @@ FindPic (286, 150, 309, 159, “zx_wlbw”, #色偏, #相似度, 0, x, y, _thid,
 FindPic (435,247,455,254, “zx_wlbw2”, #色偏, #相似度, 0, x, y, _thid, )|MoveLeft(481,354)==>yanshi(2000)
 FindPic (322,151,343,167, “zx_gar1”, #色偏, #相似度, 0, x, y, _thid, )|MoveLeft(201,370)==>yanshi(2000)==>MoveLeft(494,451)==>yanshi(2000)
 FindPic (288,147,314,154, “zx_txqr”, #色偏, #相似度, 0, x, y, _thid, )|MoveLeft(485,380)==>yanshi(2000)
+FindPic (589,64,627,75, “ts_ess”, #色偏, #相似度, 0, x, y, _thid, )|MoveLeft(199,366)==>yanshi(2000)==>MoveLeft(471,449)==>yanshi(2000)
+FindPic (326,164,349,175, “ts_ess”, #色偏, #相似度, 0, x, y, _thid, )|MoveLeft(486,356)==>yanshi(2000)
+FindPic (358,135,392,169, “ck_ALL1”, #色偏, #相似度, 0, x, y, _thid, )|MoveLeft(215,153)==>yanshi(3000)==>MoveLeft(475,438)==>yanshi(2000)
