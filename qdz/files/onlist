@@ -9,4 +9,3 @@ FindPic (589,64,627,75, “ts_ess”, #色偏, #相似度, 0, x, y, _thid, )|Mov
 FindPic (326,164,349,175, “ts_ess”, #色偏, #相似度, 0, x, y, _thid, )|MoveLeft(486,356)==>yanshi(2000)
 FindPic (358,135,392,169, “ck_ALL1”, #色偏, #相似度, 0, x, y, _thid, )|MoveLeft(215,153)==>yanshi(3000)==>MoveLeft(475,438)==>yanshi(2000)
 FindPic (240,341,262,367, “ts_nl”, #色偏, #相似度, 0, x, y, _thid, )|MoveLeft(921,60)==>yanshi(2000)
-FindPic (462,94,499,112, “ts_cs”, #色偏, #相似度, 0, x, y, _thid, )|MoveLeft(389,196)==>yanshi(2000)==>TT_输入文本”19991010”==>MoveLeft(528,279)==>yanshi(2000)
